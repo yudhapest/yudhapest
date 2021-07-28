@@ -14,9 +14,3 @@ I'm currently active in student at Universitas Dian Nuswantoro take education  C
  <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" /></a> 
 <br>
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/yudhapest">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhapest&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</a>
-</p>

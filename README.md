@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Yudha.
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yudha.
 my name is **Yudha Irmawan**.\
 I'm a **Mobile Developer**
 

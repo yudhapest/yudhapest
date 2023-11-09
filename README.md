@@ -4,7 +4,6 @@ I'm a **Mobile Developer**
 
 I am currently active as a freelance Flutter app developer.
 
-- 🌱 Currently, I am learning Typescript for full-stack development.
 - 💬 Feel free to ask me about Mobile development or Flutter.
 - 📫 You can reach me at yudhairmawan.dev@gmail.com.
 
